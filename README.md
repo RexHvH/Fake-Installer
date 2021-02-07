@@ -1,4 +1,4 @@
-# Discord-Token-Stealer
+# Fake Installer / Token Stealer
 
 
 ### If you open the program then it's sending a message through a discord webhook with the following informations:
